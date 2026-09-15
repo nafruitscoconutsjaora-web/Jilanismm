@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@source "../views/**/*.php";
+@source "../../public/assets/js/**/*.js";
+
+@layer base {
+  :root {
+    --primary-red: #be123c;
+    --primary-rose: #f43f5e;
+    --primary-dark: #881337;
+    --neutral-bg: #fafafa;
+    --charcoal: #18181b;
+  }
+
+  body {
+    background-color: #fafafa;
+    color: #18181b;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+}

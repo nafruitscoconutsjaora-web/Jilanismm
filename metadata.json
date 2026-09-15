@@ -1,0 +1,6 @@
+{
+  "name": "SMM Panel",
+  "description": "Production-ready Core PHP SMM Panel with MySQL, authentication, SMM engine, upstream API providers, currency exchange, wallet ledgers, payment gateways, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
